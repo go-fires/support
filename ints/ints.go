@@ -1,10 +1,11 @@
 package ints
 
 import (
-	"github.com/go-fires/fires/support/strs"
 	"math/rand"
 	"strconv"
 	"strings"
+
+	"github.com/go-fires/support/strs"
 )
 
 // InArray returns true if val is in an arr.
