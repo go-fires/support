@@ -15,4 +15,4 @@ require (
 	gopkg.in/yaml.v3 v3.0.1 // indirect
 )
 
-replace github.com/go-fires/generator => ../generator
+replace github.com/go-fires/generator => github.com/go-fires/generator v0.0.0-00010101000000-000000000000
