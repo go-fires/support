@@ -3,7 +3,7 @@ module github.com/go-fires/support
 go 1.20
 
 require (
-	github.com/go-fires/generator v0.4.2
+	github.com/go-fires/generator v0.4.4
 	github.com/stretchr/testify v1.8.4
 )
 
